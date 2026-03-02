@@ -1,6 +1,6 @@
 ## Hello, everyone welcome to my git guide
 
--yo Jhonny here
+-yo Jhonny P here
 -I am adding thadsis  rom feature-adding branch.
 ## Welcome to git
 
